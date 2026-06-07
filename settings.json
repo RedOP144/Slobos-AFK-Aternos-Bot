@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "RedOP AFK",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "RedOP-AFK",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "MinecraftSex.aternos.me",
+    "port": 53867,
+    "version": "26.1.3",
     "try-creative": false
   },
   "position": {
